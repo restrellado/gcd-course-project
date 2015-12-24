@@ -1,11 +1,10 @@
----
-title: "Samsung Galaxy Accelerometer and Gyroscope Dataset"
-author: "Ryan Estrellado"
-date: "December 22, 2015"
-output: html_document
----
+#Samsung Galaxy Accelerometer and Gyroscope Dataset#
 
+Ryan Estrellado
 
+December 22, 2015
+
+##Purpose
 The purpose of this document is to
 
 1. Describe the method for cleaning the raw data in the analysis of accelerometer and gyroscope data from the Samsung Galaxy fitness experiment and
