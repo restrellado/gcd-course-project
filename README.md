@@ -1,4 +1,7 @@
 ###About This Analysis
+This analysis is the course project for the Coursera class, Getting and Cleaning
+Data.
+
 Running the R script contained in the file **run_analysis.R** will clean the raw
 data from the Samsung Galaxy fitness experiment and generate a tidy dataset
 that has mean values for each combination of subject, activity, and
