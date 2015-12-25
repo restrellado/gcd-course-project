@@ -42,4 +42,4 @@ new.merged <- gather(new.merged, type, measurement, -activity, -subject)
 merged.mean <- new.merged %>%
   group_by(type, activity, subject) %>%
   summarise(mean = mean(measurement))
-write.table(merged.mean, file = "acc_means.txt", row.names = FALSE)
+write.table(merged.mean, file = "step5_tidy_dataset.txt", row.names = FALSE)
